@@ -47,4 +47,6 @@ The K-Means algorithm was executed again in order to gather all the needed infor
 
 All the results and dataframes obtained during the analysis were exported in CSV files to be used with Tableau. A single dashboard was created with a general overview of the project and with the estimated financial results for a campaign launched considering a database of 500.000 customers.
 
-For the interactive dashboard, click [here](https://public.tableau.com/profile/eduardo8266#!/vizhome/Mkt_Campaign/Dashboard1?publish=yes)
+For the interactive dashboard, click [here](https://public.tableau.com/profile/eduardo8266#!/vizhome/Mkt_Campaign/Dashboard1?publish=yes).
+
+[img](https://github.com/eduardoansi/mkt_study/blob/master/dashboard.png)
