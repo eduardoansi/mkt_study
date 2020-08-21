@@ -49,4 +49,4 @@ All the results and dataframes obtained during the analysis were exported in CSV
 
 For the interactive dashboard, click [here](https://public.tableau.com/profile/eduardo8266#!/vizhome/Mkt_Campaign/Dashboard1?publish=yes).
 
-[img](https://github.com/eduardoansi/mkt_study/blob/master/dashboard.png)
+![image]((https://github.com/eduardoansi/mkt_study/blob/master/dashboard.png)
